@@ -11,7 +11,7 @@ Convert your file indented with space (or tab) to a .tree file.
   cd tree-builder
 ```
 
-2. Write your file (doesn't matter which extension).
+2. Write your file (don't matter which extension).
 
 3. Run the script (don't forget to change the file name on the first line).
 ```bash
@@ -25,9 +25,11 @@ python tree-builder.py
 
 <img width="400" alt="Capture d’écran 2023-08-04 à 23 39 05" src="https://github.com/clement-ux/tree-builder/assets/55331875/463afc86-9a34-40e5-a6c0-53e6b15e9e19">
 
-
+## Recommandations
+Use this extension on vscode marketplace for a better syntax highlighting.
+https://marketplace.visualstudio.com/items?itemName=CTC.vscode-tree-extension 
     
 ## Comments
 
-This script works well on major simple case but is still buggy on some.
+This script works well on major simple case but is still buggy on some edge case.
 
